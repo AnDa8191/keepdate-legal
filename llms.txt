@@ -1,0 +1,64 @@
+# Keepdate
+
+> Keepdate reminds you before your passport expires, your car is due for inspection or a contract renews. Ready-made templates, no account, no ads.
+
+Keepdate is a mobile app (Android, iOS) that reminds people of recurring and expiring deadlines:
+vehicle inspections, motorhome gas checks, smoke detectors, passports, notice periods and more.
+It has no account, no ads and no tracking; all data stays on the device.
+Pricing: 5 deadlines free, then EUR 2.99 per year or EUR 9.99 once.
+Guides on this site state their sources and the date they were checked.
+
+## Deutsch
+
+- [Keepdate – Fristen-Erinnerung für Auto, Haushalt und Dokumente](https://keepdate.de/de/)
+- [Fahrzeug: Fristen und Erinnerungen](https://keepdate.de/de/auto/)
+- [Wohnmobil & Wohnwagen: Fristen und Erinnerungen](https://keepdate.de/de/wohnmobil-wohnwagen/)
+- [Haushalt: Fristen und Erinnerungen](https://keepdate.de/de/haushalt/)
+- [Geräte: Fristen und Erinnerungen](https://keepdate.de/de/geraete/)
+- [Dokumente: Fristen und Erinnerungen](https://keepdate.de/de/dokumente/)
+- [Versicherungen & Verträge: Fristen und Erinnerungen](https://keepdate.de/de/vertraege/)
+- [Sonstiges: Fristen und Erinnerungen](https://keepdate.de/de/sonstiges/)
+
+## English
+
+- [Keepdate – deadline reminders for car, home and documents](https://keepdate.de/en/)
+- [Vehicle: deadlines and reminders](https://keepdate.de/en/car/)
+- [Motorhome & caravan: deadlines and reminders](https://keepdate.de/en/motorhome-caravan/)
+- [Household: deadlines and reminders](https://keepdate.de/en/home/)
+- [Devices: deadlines and reminders](https://keepdate.de/en/devices/)
+- [Documents: deadlines and reminders](https://keepdate.de/en/documents/)
+- [Insurance & contracts: deadlines and reminders](https://keepdate.de/en/contracts/)
+- [Other: deadlines and reminders](https://keepdate.de/en/other/)
+
+## Italiano
+
+- [Keepdate – promemoria per scadenze di auto, casa e documenti](https://keepdate.de/it/)
+- [Veicolo: scadenze e promemoria](https://keepdate.de/it/auto/)
+- [Camper e roulotte: scadenze e promemoria](https://keepdate.de/it/camper-roulotte/)
+- [Casa: scadenze e promemoria](https://keepdate.de/it/casa/)
+- [Apparecchi: scadenze e promemoria](https://keepdate.de/it/apparecchi/)
+- [Documenti: scadenze e promemoria](https://keepdate.de/it/documenti/)
+- [Assicurazioni e contratti: scadenze e promemoria](https://keepdate.de/it/contratti/)
+- [Altro: scadenze e promemoria](https://keepdate.de/it/altro/)
+
+## Español
+
+- [Keepdate – recordatorios de plazos para coche, hogar y documentos](https://keepdate.de/es/)
+- [Vehículo: plazos y recordatorios](https://keepdate.de/es/coche/)
+- [Autocaravana y caravana: plazos y recordatorios](https://keepdate.de/es/autocaravana-caravana/)
+- [Hogar: plazos y recordatorios](https://keepdate.de/es/hogar/)
+- [Aparatos: plazos y recordatorios](https://keepdate.de/es/aparatos/)
+- [Documentos: plazos y recordatorios](https://keepdate.de/es/documentos/)
+- [Seguros y contratos: plazos y recordatorios](https://keepdate.de/es/contratos/)
+- [Otros: plazos y recordatorios](https://keepdate.de/es/otros/)
+
+## Français
+
+- [Keepdate – rappels d’échéances pour voiture, maison et papiers](https://keepdate.de/fr/)
+- [Véhicule : échéances et rappels](https://keepdate.de/fr/voiture/)
+- [Camping-car et caravane : échéances et rappels](https://keepdate.de/fr/camping-car-caravane/)
+- [Maison : échéances et rappels](https://keepdate.de/fr/maison/)
+- [Appareils : échéances et rappels](https://keepdate.de/fr/appareils/)
+- [Documents : échéances et rappels](https://keepdate.de/fr/papiers/)
+- [Assurances et contrats : échéances et rappels](https://keepdate.de/fr/contrats/)
+- [Autres : échéances et rappels](https://keepdate.de/fr/autres/)
